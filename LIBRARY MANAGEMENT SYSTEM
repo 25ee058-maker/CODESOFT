@@ -1,7 +1,3 @@
-// library.cpp
-// C++17 console-based Library Management System with CSV storage
-// Features: Book DB, Search, Checkout, Return, Fine Calculation, Console UI
-
 #include <iostream>
 #include <iomanip>
 #include <vector>
